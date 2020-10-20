@@ -1,0 +1,16 @@
+:root {
+  --button-color: #fff;
+  --button--color-transparent: #262626;
+  --primary-color: #118ab2;
+  --secondary-color: #888888;
+  --grey-color: #f5f5f5;
+  --tag-color: #096dd9;
+  --attribute-color: #d42f3c;
+  --value-color: #d46b08;
+  --blue-color: #118ab2;
+  --green-color: #06d6a0;
+}
+
+* {
+  box-sizing: border-box;
+}
