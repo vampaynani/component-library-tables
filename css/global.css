@@ -1,14 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&family=Piazzolla:wght@300;400;700&family=Roboto:wght@300;400;700&display=swap");
+
 :root {
-  --button-color: #fff;
-  --button--color-transparent: #262626;
-  --primary-color: #118ab2;
-  --secondary-color: #888888;
-  --grey-color: #f5f5f5;
-  --tag-color: #096dd9;
-  --attribute-color: #d42f3c;
-  --value-color: #d46b08;
   --blue-color: #118ab2;
   --green-color: #06d6a0;
+  --yellow-color: #ffd166;
+  --red-color: #ef476f;
+  --midnight-color: #073b4c;
+  --light-color: #f8f9fa;
+  --white-color: #ffffff;
+  --gray-color: #888888;
+  --black-color: #262626;
+  --body-font: "Montserrat", sans-serif;
+  --headings-font: "Piazzolla", serif;
+  --system-font: "SF Pro Display", "Roboto", sans-serif;
 }
 
 * {
