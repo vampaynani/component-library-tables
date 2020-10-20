@@ -1,5 +1,5 @@
 @import "global.css";
-@import "page.css";
+
 /* TODO:
  * ////// Components
  * -> Tabs
@@ -7,3 +7,6 @@
  * -> Tab Group
  * -> Vertical List
  * -> Card
+ */
+
+@import "page.css";
