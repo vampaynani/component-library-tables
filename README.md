@@ -1,7 +1,7 @@
-# Component Library - Forms
+# Component Library - Tables
 While the concept of Design Systems is really important, our main focus as developers is to build and use a component library. Today assignment is to start building a basic component library using the concepts reviewed so far.
 
-Find the design [here](https://www.figma.com/file/XqaILF9tzT9S7tcc42qTc5/Component-Library-Forms?node-id=30%3A68).
+Find the design [here](https://www.figma.com/file/0fQdwR1tCEPWrbppi2rpCg/Component-Library-Tables?node-id=0%3A1).
 
 ## Take into consideration:
 - Keep it dry.
